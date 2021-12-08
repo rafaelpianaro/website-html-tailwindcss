@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/rafaelpianaro/website-html-tailwindcss/issues"
   },
-  "homepage": "https://github.com/rafaelpianaro/website-html-tailwindcss#readme"
+  "homepage": "https://github.com/rafaelpianaro/website-html-tailwindcss#readme",
+  "dependencies": {
+    "tailwindcss": "^2.2.19"
+  }
 }
